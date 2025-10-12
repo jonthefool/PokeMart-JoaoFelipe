@@ -34,9 +34,9 @@ O **PokeMart** simula um sistema de loja do universo **Pokémon**, permitindo **
 ## 👤 Autor  
 
 **João Felipe Bonifácio**  
-Curso: Análise e Desenvolvimento de Sistemas  
-Instituição: Cesar School  
-Turma: 2025.2  
+📘 Curso: Análise e Desenvolvimento de Sistemas  
+🏫 Instituição: Cesar School  
+📅 Turma: 2025.2  
 
 ---
 
@@ -44,3 +44,23 @@ Turma: 2025.2
 
 **Introdução à Computação**  
 👩‍🏫 Docente: Rafaella Chrystiane  
+
+---
+
+## 🧠 Decisões de Design  
+
+Decidi que apenas três páginas me limitariam muito para expressar a ideia de um mercado do mundo Pokémon.  
+Por isso, escolhi testar diferentes estilos até chegar a um resultado que me deixasse satisfeito e me surpreendi com o quanto consegui evoluir ao longo do processo.  
+
+Na escolha da **paleta de cores**, utilizei:
+- **Azul** para destacar títulos  
+- **Vermelho** para chamadas de ação  
+- **Branco** como fundo e para bordas  
+- **Preto** para textos descritivos  
+
+Quanto às **fontes**, usei:
+- *Roboto* para descrições  
+- *Press Start 2P* (pixelada) para os títulos principais, trazendo um toque retrô e fiel ao estilo dos jogos Pokémon.  
+
+---
+
